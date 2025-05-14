@@ -38,14 +38,6 @@ This project focuses on cleaning and preprocessing the Titanic dataset to prepar
 7. **Saving the Cleaned Data**:
    - Exported the cleaned dataset to `titanic_cleaned.csv` using `df.to_csv()`.
 
-## 📁 Repository Structure
-
-```
-├── Titanic_Cleaning_Notebook.ipynb  # Jupyter notebook with cleaning steps
-├── titanic_cleaned.csv              # Cleaned dataset
-└── README.md                        # Project documentation
-```
-
 ## 🚀 Getting Started
 
 1. **Clone the repository**:
